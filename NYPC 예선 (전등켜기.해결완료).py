@@ -142,6 +142,7 @@ while n==100:
     
     n.append([npx,npy])
     npx=npx+1
+
     if object[npy][npx]=="O":
         print("L",y-where+1)
         k=1
